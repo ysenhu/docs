@@ -488,7 +488,7 @@ msgid ""
 "accounts does not exist or stops existing during the transaction."
 msgstr ""
 "有时候，你需要 \"回滚\" 或者撤销一个事务；比如，应用需要 \"取消\" 事务或者其"
-"中一个账户不存在或者停止在交易过程中存在（感觉不太贴切，贴出原文：or if one "
+"中一个账户不存在或者交易过程中取消交易（感觉不太贴切，贴出原文：or if one "
 "of the accounts does not exist or stops existing during the transaction.）。"
 
 #: ../source/tutorial/perform-two-phase-commits.txt:209
